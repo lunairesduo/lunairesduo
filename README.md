@@ -17,13 +17,12 @@
 <br/>
 
 ## Team
-
 <div align="center">
 
-| Member | Role | GitHub |
-|---|---|:---:|
-| **lightlymoon** | Designer & Full Stack Developer | [![GitHub](https://img.shields.io/badge/-lightlymoon-181717?style=flat-square&logo=github)](https://github.com/lightlymoon) |
-| **SumTix** | Full Stack Developer | [![GitHub](https://img.shields.io/badge/-SumTix-181717?style=flat-square&logo=github)](https://github.com/SumTix) |
+| Member | Role | GitHub | Contact |
+|---|---|:---:|:---:|
+| **lightlymoon** | Designer & Full Stack Developer | [![GitHub](https://img.shields.io/badge/-lightlymoon-181717?style=flat-square&logo=github)](https://github.com/lightlymoon) | gnuray008@gmail.com |
+| **SumTix** | Full Stack Developer | [![GitHub](https://img.shields.io/badge/-SumTix-181717?style=flat-square&logo=github)](https://github.com/SumTix) | almshthdly@gmail.com |
 
 </div>
 
