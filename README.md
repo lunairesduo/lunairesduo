@@ -66,4 +66,4 @@
 <img src="banner.png" width="110%"/>
 </div>
 <div align="center">
-<img src="lunaires-neon-line.gif" width="100%" height="30" /></div>
+<img src="lunaires-neon-line-transparent.gif" width="100%" height="30" /></div>
