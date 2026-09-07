@@ -90,5 +90,5 @@ Each project is completed with a more mature engineering practice than the last.
 <br/>
 
 <div align="center">
-<img src="banner.png" width="100%"/>
+<img src="banner.png" width="110%"/>
 </div>
