@@ -16,7 +16,7 @@
 
 <br/>
 
-## Team
+### Team
 <div align="center">
 
 | Member | Role | GitHub | Contact |
@@ -28,7 +28,7 @@
 
 <br/>
 
-## Our Tech Stack
+### Our Tech Stack
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 <br/>
 
-## Get In Touch
+### Get In Touch
 
 <div align="center">
 
