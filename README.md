@@ -58,9 +58,3 @@
 [![Email](https://img.shields.io/badge/Email-lunairesteam27%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lunairesteam27@gmail.com)
 
 </div>
-
-<br/>
-
-<div align="center">
-<img src="banner.png" width="110%"/>
-</div>
