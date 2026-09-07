@@ -16,7 +16,7 @@
 
 <br/>
 
-### Team 
+### Team 👤
 <div align="center">
 
 | Member | Role | GitHub | Contact |
