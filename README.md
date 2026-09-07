@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   
-[![Contact](https://img.shields.io/badge/CONTACT-lunairesteam27%40gmail.com-B1A8BA?style=for-the-badge&labelColor=968AA3)](mailto:lunairesteam27@gmail.com)
+[![Contact](https://img.shields.io/badge/CONTACT-lunairesteam27%40gmail.com-968AA3?style=for-the-badge&labelColor=80708F)](mailto:lunairesteam27@gmail.com)
 
 </div>
 
