@@ -16,33 +16,6 @@
 
 <br/>
 
-## What We Believe
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### <span style="color:#58A6FF">Domain Independence</span>
-We build whatever a project needs — a game engine, a web stack, or a native application, it makes no difference.
-
-</td>
-<td width="33%" valign="top">
-
-### <span style="color:#BC8CFF">End-to-End Ownership</span>
-The team maintains the same quality bar at every stage, from design to deployment.
-
-</td>
-<td width="33%" valign="top">
-
-### <span style="color:#39D353">Continuous Growth</span>
-Each project is completed with a more mature engineering practice than the last.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## Team
 
 <div align="center">
