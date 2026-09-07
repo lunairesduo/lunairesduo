@@ -2,8 +2,6 @@
 <img src="lunaires.png" width="100%"/>
 <br/>
 
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE-39D353?style=for-the-badge&labelColor=0d1117)](#)
-[![Domains](https://img.shields.io/badge/DOMAINS-GAME%20·%20WEB%20·%20APP-BC8CFF?style=for-the-badge&labelColor=0d1117)](#)
 [![Contact](https://img.shields.io/badge/CONTACT-lunairesteam27%40gmail.com-F778BA?style=for-the-badge&labelColor=0d1117)](mailto:lunairesteam27@gmail.com)
 
 </div>
