@@ -10,13 +10,13 @@
 
 <br/>
 
-### Who We Are
+### Who We Are 🌱
 
 **Lunaires** is an agile software team that builds end-to-end products across game, web, and mobile/desktop application development without confining itself to a single domain. Every project is handled to the highest standard within its own discipline; design, engineering, and production are carried out under one roof.
 
 <br/>
 
-### Team
+### Team 
 <div align="center">
 
 | Member | Role | GitHub | Contact |
@@ -28,7 +28,7 @@
 
 <br/>
 
-### Our Tech Stack
+### Our Tech Stack 💻
 
 <div align="center">
 
