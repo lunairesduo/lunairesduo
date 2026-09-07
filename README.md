@@ -2,7 +2,7 @@
 <img src="lunaires.png" width="100%"/>
 <br/>
 </div>
-<div align="left">
+<div align="center">
   
 [![Contact](https://img.shields.io/badge/CONTACT-lunairesteam27%40gmail.com-F778BA?style=for-the-badge&labelColor=0d1117)](mailto:lunairesteam27@gmail.com)
 
